@@ -23,15 +23,15 @@ The **Applicant Tracking System (ATS)** is a web-based platform designed to stre
 ![Dashboard](./screenshots/dashboard.png)
 
 **Upload Resume**
-![Upload Resume](./screenshots/upload_resume.png)
+![Upload Resume](./screenshots/resumeupload.png)
 
 **Candidate Applications**
-![Candidate Applications](./screenshots/candidate_applications.png)
+![Candidate Applications](./screenshots/application.png)
 
 **Job Listings**
-![Job Listings](./screenshots/jobs.png)
+![Job Listings](./screenshots/jobcreate.png)
 
-> Replace the paths with your actual screenshot files stored in a `screenshots/` folder.
+ 
 
 ---
 
@@ -69,15 +69,3 @@ npm install
 
 6.Start the frontend:
 npm run dev
-
-
-
-
-
-
-
-
-
-
-
-com/BoyaManjula/ATS-system-project.git
