@@ -25,6 +25,12 @@ The **Applicant Tracking System (ATS)** is a web-based platform designed to stre
 **Upload Resume**
 ![Upload Resume](./screenshots/resumeupload.png)
 
+**View Resume**
+![Upload Resume](./screenshots/viewresume.png)
+
+**Matching resume scores**
+![Upload Resume](./screenshots/matchingscore.png)
+
 **Candidate Applications**
 ![Candidate Applications](./screenshots/application.png)
 
